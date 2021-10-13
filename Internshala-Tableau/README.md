@@ -1,5 +1,5 @@
 # Assignments & Project
- [Dataset](https://github.com/mykeysid10/Tableau/blob/2ccd9b3ef2ab43f35c4af8e039316cc8f69a30e3/Internshala/Superstore.xlsx)
+ [Dataset](https://github.com/mykeysid10/Training-Internships/blob/main/Internshala-Tableau/Superstore.xlsx)
 
 ##### [Module 1 & 2](https://public.tableau.com/app/profile/siddharth.kulkarni2558/viz/InternshalaM1M2/ProfitMap)
 ##### [Module 3 & 4]
