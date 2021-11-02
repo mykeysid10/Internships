@@ -1,4 +1,4 @@
-# Assignments & Project
+# Internshala Tableau Training Assignments & Project
  [Dataset](https://github.com/mykeysid10/Training-Internships/blob/main/Internshala-Tableau/Superstore.xlsx)
 
 ##### Assignment 1: [Creating a Profit Chart](https://public.tableau.com/views/InternshalaAssignments/A1ProfitgainedMonthly?:language=en-US&:display_count=n&:origin=viz_share_link)
